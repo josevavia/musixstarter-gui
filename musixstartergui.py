@@ -23,8 +23,8 @@
 #
 #
 #
-#       Last Changes: Feb 21 2012, Jose VV
-#       Based on previous by Ariel
+#       Last Updated: Jul 04 2014, Jose VV
+#       Based on previous work by Ariel
 #
 #
 
